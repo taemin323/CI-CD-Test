@@ -10,7 +10,6 @@ class CiCdTestApplicationTests {
     @Test
     void contextLoads() {
         //의도적으로 실패하는 어서션 추가
-        assertEquals(true, false, "의도적으로 실패하는 테스트입니다.");
     }
 
 }
